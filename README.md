@@ -1,5 +1,6 @@
 # microbiome-pipe
 Pipeline for Analysis of Microbiome data
+### DOI 10.17605/OSF.IO/HQ7P9
 
 
 ## How to cite
